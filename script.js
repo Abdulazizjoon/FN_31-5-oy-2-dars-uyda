@@ -26,6 +26,15 @@
 // let sum = res.filter(value => value === value.toUpperCase());
 // console.log(sum);
 
+//4-masala
+// let text = 'salom dunyo';
+// let res = text.split(' ')
+// res=res.map(function(value) {
+//     value= value[0].toUpperCase()+value.slice(1)
+//     return value
+// })
+// console.log(res.join(' '));
+
 
 //6-masala
 // let text = 'test'
