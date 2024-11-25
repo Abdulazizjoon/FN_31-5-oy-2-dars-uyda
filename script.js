@@ -1,19 +1,22 @@
 //stringga oid
 //1-masala
-// let text = "teskari";
-// let res = text
-//   .split(" ")
-//   .map(function (value) {
-//     return value.split("").reverse().join("");
-//   })
-//   .join(" ");
+// let text = 'salom';
+// let res = text.split('').reverse().join('');
 // console.log(res);
 
 
 //2-masala
-// let text = 'salom';
-// let res = text.split('').reverse().join('');
-// console.log(res);
+// let text = 'salom dunyo';
+// let res = text.split(' ')
+// let first = res[0]
+// let last = res.at(-1)
+// res.pop()
+// res.shift()
+// res.push(first)
+// res.unshift(last)
+// let result = res.join(' ')
+// console.log(result);
+
 
 
 
